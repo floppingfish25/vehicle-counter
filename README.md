@@ -21,10 +21,9 @@ This project provides an application that detects and counts the number of cars 
 
 ## Steps to Reproduce
 
-### 1. Clone the Repository
-
-Clone the repository to your local machine using the following command:
+### 1. Install Streamlit
 
 ```bash
-git clone https://github.com/your-username/side-profile-car-detection.git
-cd side-profile-car-detection
+pip install streamlit
+
+### 1. Install Streamlit
