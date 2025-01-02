@@ -25,5 +25,12 @@ This project provides an application that detects and counts the number of cars 
 
 ```bash
 pip install streamlit
+```
 
-### 1. Install Streamlit
+### 2. Download vehicle-counter.py
+
+### 3. Run vehicle-counter.py
+
+```bash
+streamlit run vehicle-counter.py
+```
