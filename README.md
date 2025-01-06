@@ -27,9 +27,11 @@ This project provides an application that detects and counts the number of cars 
 pip install streamlit
 ```
 
-### 2. Download vehicle-counter.py
+### 2. Download vehicle-counter.py & sideview_cascade_classifier.xml
 
-### 3. Run vehicle-counter.py
+### 3. Place vehicle-counter.py & sideview_cascade_classifier.xml in your home directory or you can modify the absolute path for both files
+
+### 4. Run vehicle-counter.py
 
 ```bash
 streamlit run vehicle-counter.py
